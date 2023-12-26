@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6670640f-958a-4648-b504-06dcd03381e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/StackQueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackQueue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackQueue/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackQueue/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "UC__2__Peak__Pop",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703597421923</updated>
-      <workItem from="1703597422974" duration="424000" />
+      <workItem from="1703597422974" duration="880000" />
     </task>
     <servers />
   </component>
