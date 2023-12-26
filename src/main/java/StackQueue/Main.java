@@ -24,5 +24,9 @@ public class Main {
 
         System.out.println("\nQueue Operations:");
         System.out.println("Size of Queue: " + queue.size());
+
+        while (!queue.isEmpty()) {
+            System.out.println("Dequeue: " + queue.dequeue());
+        }
     }
 }
